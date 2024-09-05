@@ -1,0 +1,7 @@
+transformers
+tensorflow
+huggingface-hub
+termcolor
+requests
+selenium
+signal
